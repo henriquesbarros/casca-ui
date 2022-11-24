@@ -1,0 +1,3 @@
+{
+  "extends": "@casca-ui/eslint-config"
+}
