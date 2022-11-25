@@ -26,6 +26,7 @@
   },
   "dependencies": {
     "@casca-ui/eslint-config": "*",
+    "@casca-ui/ts-config": "*",
     "@casca-ui/react": "*",
     "@casca-ui/tokens": "*",
     "polished": "^4.2.2",

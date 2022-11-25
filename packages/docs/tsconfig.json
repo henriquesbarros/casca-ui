@@ -1,0 +1,4 @@
+{
+  "extends": "@casca-ui/ts-config/react.json",
+  "include": ["src"]
+}
