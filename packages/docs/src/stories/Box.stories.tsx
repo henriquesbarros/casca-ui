@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from "@storybook/react";
-import { Box, BoxProps } from "@casca-ui/react";
+import { Box, BoxProps, Text } from "@casca-ui/react";
 
 export default {
   title: "Surfaces/Box",
@@ -7,7 +7,7 @@ export default {
   args: {
     children: (
       <>
-        <p>Testando o elemento Box</p>
+        <Text>Testando o elemento Box</Text>
       </>
     ),
   },
